@@ -20,5 +20,4 @@ I believe that every line of code tells a story, and I'm here to write the best 
 
 Feel free to connect, collaborate, or just say hi. Let's build something amazing together!
 
-![HTML Logo](https://www.w3.org/html/logo.png)
 
