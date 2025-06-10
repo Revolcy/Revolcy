@@ -1,23 +1,24 @@
-## 👋 Hi, I'm @Revolcy!
-
-### 👀 About Me
-I'm passionate about Philosophy and Coding. My journey in the world of tech is driven by a love for problem-solving and continuous learning.
-
-### 🌱 Current Focus
-I'm currently diving deep into Backend Development, exploring various frameworks and technologies.
-
-### 💞️ Collaboration
-I'm looking to collaborate on exciting projects that challenge my skills and broaden my horizons. Whether it's open-source contributions or innovative startups, I'm eager to make a difference.
-
-### 📫 Get in Touch
-You can reach me on Instagram: [@rvolcy_](https://www.instagram.com/rvolcy_)
-
-### 😄 Pronouns
-He/Him
-
-### ⚡ Fun Fact
-I believe that every line of code tells a story, and I'm here to write the best ones!
-
-Feel free to connect, collaborate, or just say hi. Let's build something amazing together!
+# 💫 About Me:
+## 👋 Hi, I'm @Revolcy!  <br><br>### 👀 About Me  <br>I'm passionate about Philosophy, Coding, and the pursuit of knowledge. My journey in the world of tech is driven by a love for problem-solving, continuous learning, and tackling intellectual challenges.  <br><br>### 🌱 Current Focus  <br>I'm currently diving deep into Machine Learning, exploring its vast potential and real-world applications. Additionally, I actively participate in Informatics Olympiads and various science competitions to sharpen my skills and push my limits.  <br><br>### 💞️ Collaboration  <br>I'm looking to collaborate on exciting projects that challenge my skills and broaden my horizons. Whether it's open-source contributions, innovative startups, or competitive programming, I'm eager to make an impact and grow alongside like-minded individuals.  <br><br>### 📫 Get in Touch  <br>You can reach me on Instagram: [@rvolcy_](https://www.instagram.com/rvolcy_)  <br><br>### ⚡ Fun Fact  <br>I believe that every line of code tells a story, and I'm here to write the best ones!  <br><br>Feel free to connect, collaborate, or just say hi. Let's build something amazing together! 🚀  <br><br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rvolcy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/revolcy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alicizations03@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Revolcy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Revolcy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Revolcy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Revolcy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Revolcy&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
