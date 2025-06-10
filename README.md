@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm @Revolcy!  <br><br> 👀 About Me  <br>I'm passionate about Philosophy, Coding, and the pursuit of knowledge. My journey in the world of tech is driven by a love for problem-solving, continuous learning, and tackling intellectual challenges.  <br><br>🌱 Current Focus  <br>I'm currently diving deep into Machine Learning, exploring its vast potential and real-world applications. Additionally, I actively participate in Informatics Olympiads and various science competitions to sharpen my skills and push my limits.  <br><br>💞️ Collaboration  <br>I'm looking to collaborate on exciting projects that challenge my skills and broaden my horizons. Whether it's open-source contributions, innovative startups, or competitive programming, I'm eager to make an impact and grow alongside like-minded individuals.  <br><br>⚡ Fun Fact  <br>I believe that every line of code tells a story, and I'm here to write the best ones!  <br><br>Feel free to connect, collaborate, or just say hi. Let's build something amazing together! 🚀  <br><br>
+## 👋 Hi, I'm @Revolcy!  <br><br>👀 About Me  <br>I'm passionate about Philosophy, Coding, and the pursuit of knowledge. My journey in the world of tech is driven by a love for problem-solving, continuous learning, and tackling intellectual challenges.  <br><br>🌱 Current Focus  <br>I'm currently diving deep into Machine Learning, exploring its vast potential and real-world applications. Additionally, I actively participate in Informatics Olympiads and various science competitions to sharpen my skills and push my limits.  <br><br>💞️ Collaboration  <br>I'm looking to collaborate on exciting projects that challenge my skills and broaden my horizons. Whether it's open-source contributions, innovative startups, or competitive programming, I'm eager to make an impact and grow alongside like-minded individuals.  <br><br>⚡ Fun Fact  <br>I believe that every line of code tells a story, and I'm here to write the best ones!  <br><br>Feel free to connect, collaborate, or just say hi. Let's build something amazing together! 🚀  <br><br>
 
 
 ## 🌐 Socials:
@@ -11,14 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Revolcy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Revolcy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Revolcy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Revolcy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Revolcy&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
